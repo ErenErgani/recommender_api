@@ -1,0 +1,6 @@
+
+venv/
+__pycache__/
+.env
+# Firebase Admin anahtarımızı gizle
+firebase-admin-key.json
